@@ -1,0 +1,2 @@
+# GD4-BASIC_STATE_MACHINE
+godot 4
