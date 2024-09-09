@@ -2,8 +2,9 @@
 
 Move state machine and state to your folder.
 assign A initial state at your state_machine
-USE EXAMPLE
 
+USE EXAMPLE
+ Physics_Update_State you place the reason to transit to another state, like hitbox, or some another variable.
 ```
 extends State
 class_name one
