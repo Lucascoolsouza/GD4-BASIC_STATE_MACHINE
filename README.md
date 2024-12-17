@@ -3,6 +3,8 @@
 Move state machine and state to your folder.
 assign A initial state at your state_machine
 
+/// the name of your nodes need to be the same of transitioned emit, like the "self, "two"
+
 USE EXAMPLE
  Physics_Update_State you place the reason to transit to another state, like hitbox, or some another variable.
 ```
